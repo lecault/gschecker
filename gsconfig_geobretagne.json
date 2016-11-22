@@ -17,7 +17,7 @@
         "geob_loc"
     ],
     "contact": {
-        "OrganisationName": "partenariat GéoBretagne",
+        "organisationName": "partenariat GéoBretagne",
         "address": "10 rue Maurice Fabre",
         "city": "RENNES",
         "postalCode": "35065",
